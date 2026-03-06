@@ -11,8 +11,6 @@
 
 A simple **Music Gallery** web application built with **Laravel 12**, **PHP 8.2**, and **Bootstrap 5**. Users can **create, read, update, and delete** music records (CRUD), including name, genre, and author.
 
----
-
 ## Features
 
 - List all music records in a card layout.
@@ -21,8 +19,6 @@ A simple **Music Gallery** web application built with **Laravel 12**, **PHP 8.2*
 - Delete music records with confirmation.
 - Success messages for **create**, **update**, and **delete** actions.
 - Responsive UI using **Bootstrap 5**.
-
----
 
 ## Installation
 
